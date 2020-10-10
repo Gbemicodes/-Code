@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align:center;
+}
+ h2{
+    color:green;
+    text-align: center;
+ }
+ background{
+     color : gray;
+ }
+  h3{
+      color:black;
+  }
+  h4{
+      color:purple;
+      text-align: right;
+  }
+  figcaption{
+      text-align: center;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
